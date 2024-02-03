@@ -1,2 +1,2 @@
 # ott
-[dolit ott](http://ott-iptv.cn/home/index/en)http://ott-iptv.cn/home/index/en
+[Please visit this link](http://ott-iptv.cn/home/index/en)
