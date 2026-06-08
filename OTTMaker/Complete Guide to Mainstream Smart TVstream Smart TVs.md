@@ -2,8 +2,9 @@
 With the continuous development of OTT/IPTV platforms, Smart TVs have become the traffic entry for live video streaming services. Operating systems carried by different brand terminals have formed independent and clearly defined terminal-side content ecosystems. 
 However, for many OTT/IPTV developers, each TV ecosystem is almost like a completely different world. Therefore, understanding the underlying logic of TV ecosystems has become a important thing. 
 
-This article selects five mainstream smart TV operating systems: **Apple tvOS, Android TV/Google TV, Roku OS, Samsung Tizen OS, and LG webOS** . We’ll break down the terminal-side content operation logic, technical characteristics, and application rules of each ecosystem, 
-providing reference for online video platform development. 
+This article selects five mainstream smart TV operating systems: **Apple tvOS, Android TV/Google TV, Roku OS, Samsung Tizen OS, and LG webOS** . We’ll break down the terminal-side content operation logic, technical characteristics, and application rules of each ecosystem, providing reference for online video platform development. 
+
+![TV1](https://github.com/dolit/OTTMaker/blob/main/www/banner.png)
 
 ## **1. Apple TV (tvOS Ecosystem)** 
 
