@@ -4,6 +4,8 @@ From traditional cable TV and satellite TV to operator-managed IPTV and internet
 
 In this article, we'll explore the major video content delivery solutions from the architecture, features, advantages, and limitations. 
 
+![VOD1](https://github.com/dolit/OTTMaker/blob/main/www/VOD1.png)
+
 ## **1. IPTV** 
 
 **IPTV (Internet Protocol Television)** is a video transmission technology built on operator-managed IP networks, deployed on dedicated networks owned and controlled by service providers. 
@@ -23,6 +25,8 @@ Content providers host media assets on cloud-based origin servers and utilize gl
 OTT platforms can support flexibly any device, operating system, or brand without requiring approval from network operators. In addition, OTT enables diverse monetization models, including SVOD, TVOD, AVOD, and content licensing to continuously optimize user experience and commercial profitability. 
 
 Benefiting from broad network coverage, new OTT projects can be launched rapidly at low startup costs. They can scale globally without terminal restrictions. However, because OTT relies on the public internet, user experience depend on network quality. Content piracy, anti-piracy protection and copyright tracing are often more difficult. 
+
+![VOD2](https://github.com/dolit/OTTMaker/blob/main/www/VOD2.png)
 
 ## **3. Cable Television** 
 
@@ -47,6 +51,8 @@ Satellite television can provide large-scale coverage at low operational costs, 
 DTT represents a classic public broadcasting service and highlights strong public welfare attributes. Viewers don’t need to pay subscription fees or consume internet bandwidth. Because the service operates independently of broadband infrastructure, services remains available even during internet outages. It delivers basic content to mass audiences at minimum investment thresholds. 
 
 DTT offers wide coverage, low deployment costs, and easy reception, making it well suited for public welfare and universal access initiatives. However, limited channel capacity provides little support for value-added services such as VOD, time-shift viewing, premium content, or advanced monetization strategies. As a result, commercial potential is limited. 
+
+![VOD3](https://github.com/dolit/OTTMaker/blob/main/www/VOD3.png)
 
 ## **Conclusion** 
 
