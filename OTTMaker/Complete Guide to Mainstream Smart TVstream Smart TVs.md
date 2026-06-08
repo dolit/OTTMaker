@@ -4,7 +4,7 @@ However, for many OTT/IPTV developers, each TV ecosystem is almost like a comple
 
 This article selects five mainstream smart TV operating systems: **Apple tvOS, Android TV/Google TV, Roku OS, Samsung Tizen OS, and LG webOS** . We’ll break down the terminal-side content operation logic, technical characteristics, and application rules of each ecosystem, providing reference for online video platform development. 
 
-![TV1](https://github.com/dolit/OTTMaker/blob/main/www/banner.png)
+![TV1](https://github.com/dolit/OTTMaker/blob/main/www/TV1.png)
 
 ## **1. Apple TV (tvOS Ecosystem)** 
 
@@ -23,6 +23,8 @@ Android TV has the strongest compatibility among all current TV platforms, suppo
 Its protocol parsing capability covers mainstream industry streaming solutions. The system natively supports common protocols such as HLS, LL-HLS, DASH, HTTP, and IGMP, as well as niche protocols like RTMP, RTSP, and SRT. Whether from network handshake, demultiplexing, audio-video separation, or ultra-low-latency live streaming and P2P video, all can be flexibly implemented. 
 
 Content encryption mainly adopts **Widevine DRM** , divided into two security levels: L1 and L3. L1 can normally play 4K encrypted content and is also compatible with PlayReady solution. The decryption process is managed by the system security module, prohibiting plaintext export of encrypted data. App distribution channels are abundant. In addition to Google’s official TV app store, installation through APK, USB, browsers is also supported, with extremely strong scalability. Therefore, a large number of global OTT/IPTV services heavily rely on the Android TV ecosystem. 
+
+![TV2](https://github.com/dolit/OTTMaker/blob/main/www/TV2.png)
 
 ## **3. Roku OS (Roku TV/Box Ecosystem)** 
 
@@ -52,6 +54,8 @@ LG webOS is a lightweight, self-developed closed operating system and another ma
 Video and audio decoding covers encodings such as H.264, H.265, and VP9, and new flagship models support AV1 hardware decoding. Container formats including MKV, TS, MP4, AVI, M2TS, and FLV can all be normally demultiplexed. In addition to conventional AC3, EAC3, and DTS, audio also supports Dolby Atmos and AC-4 audio standards, forming a complete audio system. 
 
 Content encryption continues using **Widevine and PlayReady** . Keys and decryption modules are isolated and protected by the underlying system, effectively ensuring the security of paid content with relatively mature overall compatibility. The only app download channel is the **LG Content Store** , and external package sideloading is prohibited. 
+
+![TV3](https://github.com/dolit/OTTMaker/blob/main/www/TV3.png)
 
 ## **Summary** 
 
