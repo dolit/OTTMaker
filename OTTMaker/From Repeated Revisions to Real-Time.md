@@ -1,10 +1,12 @@
-**From Repeated Revisions to Real-Time Preview: Redefining the OTT/IPTV Playback Interface Management Experience** 
+## **From Repeated Revisions to Real-Time Preview: Redefining the OTT/IPTV Playback Interface Management Experience** 
 
 In the online video platform development, content is undoubtedly important. However, the first thing users interact with is the interface. 
 
 For the daily operation of OTT/IPTV platforms, homepage layouts, content organization, activity entry points, and overall UI design directly influence user experience and operational results. Therefore, interface management has become a critical factor in boosting user retention and business value. 
 
 Yet for many operators, traditional streaming platforms bring numerous inconveniences. Interface updates are often time-consuming and complicated tasks, creating operational barriers and severely slowing down work efficiency. 
+
+![WYSIWYG1](https://github.com/dolit/OTTMaker/blob/main/www/WYSIWYG1.png)
 
 ## **Challenges of Traditional Interface Editing** 
 
@@ -33,6 +35,8 @@ As the streaming platform continues to expand, OTT/IPTV services are accessible 
 Operators can switch between TV, mobile, and web interface editors directly in the **Interface Editing** . Editing and previewing occur simultaneously, and revisions can even be made directly from the preview interface itself, providing a highly convenient and efficient workflow. 
 
 For operational teams, this means that many tasks previously dependent on developers can now be completed independently. For instance, operators can quickly create dedicated event sections for major sports. During holiday campaigns, promotional landing pages can be launched immediately. When new movies or TV series become popular, homepage recommendations can be adjusted instantly. 
+
+![WYSIWYG2](https://github.com/dolit/OTTMaker/blob/main/www/WYSIWYG2.jpg)
 
 **The Value of Combining WYSIWYG with OTTMaker** 
 
