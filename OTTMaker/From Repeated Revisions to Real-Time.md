@@ -60,7 +60,7 @@ Through its WYSIWYG editing capabilities, OTTMaker directly addresses industry c
 
 We deliver a proven OTT/IPTV solutions to help you monetize in 3 days.If you are interested, feel free to contact us for a free trial! 
 
-## **Ofcial Website** ： **htps://ottmaker.com/** 
+## **Offcial Website** ： **https://ottmaker.com/** 
 
 ## **E-mail** ： **market@dolit.cn** 
 
