@@ -1,6 +1,6 @@
 # Flexible Monetization Architecture for OTT Platforms: Supporting Different Content and User Scenarios
 
-![Flexible Streaming Monetization Strategy with OTT Maker](images/flexible-monetization-cover.png)
+![Flexible Streaming Monetization Strategy with OTT Maker](flexible-monetization-cover.png)
 
 ## Overview
 
@@ -168,7 +168,7 @@ The goal is creating the right package for the right audience.
 
 OTT Maker allows businesses to configure flexible access packages based on different content and user requirements.
 
-![OTT Maker Recharge Card Configuration](images/recharge-card-configuration.png)
+![OTT Maker Recharge Card Configuration](recharge-card-configuration.png)
 
 Key configuration options include:
 
