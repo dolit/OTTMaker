@@ -35,7 +35,7 @@ The objective is not to create an unrelated interface for every scenario. It is 
 
 ---
 
-# A Practical Model for Flexible OTT Interfaces
+## A Practical Model for Flexible OTT Interfaces
 
 A flexible interface can be planned as a sequence:
 
@@ -219,7 +219,7 @@ This connects the visual layer of the page with the content and access paths beh
 
 ---
 
-# How OTT Maker Maps Interface Decisions to Configuration
+## How OTT Maker Maps Interface Decisions to Configuration
 
 | Interface decision | OTT Maker capability | Operational purpose |
 | --- | --- | --- |
